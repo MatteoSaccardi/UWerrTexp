@@ -1,0 +1,9 @@
+kappa       0.188
+lambda      1.145
+ntherm      1000
+nsweep      1000000
+delta       0.25
+seed        112
+naccu       1
+tlength     1.0000
+nstep       8

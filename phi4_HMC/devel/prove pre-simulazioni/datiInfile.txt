@@ -1,0 +1,12 @@
+% PARAMETERS       
+% L              16
+% DIM            3
+% kappa          0.181690
+% lambda         1.145000
+% ntherm         10000
+% nsweep         100000
+% delta          0.250000
+% naccu          1000
+% tlength        1.000000
+% nstep          22
+% END PARAMETERS   

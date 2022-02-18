@@ -1,0 +1,9 @@
+Controllo su tauint > 0.5 entro 2 sigma.
+Fine controllo su tauint
+
+Le medie differiscono per 4.4218164596300046e-12
+
+Controllo su errori compatibili entro 2 sigma.
+[[] []] con errore []
+Errore calcolato: []; errore UWerrTexp: []; errore sull'errore: []
+Fine controllo su errori
