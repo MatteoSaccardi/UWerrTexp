@@ -282,7 +282,7 @@ def UWerrTexp(Data, Parm = np.array([1.5, 0, 3, 5, 1, 0]), Nrep = -1, \
     raise Exception('UWerrTexp:IncorrectArgin \n inconsistent N,Nrep')
     
   if is_numeric(Quantity):
-    if np.round(Quantity) != Quantity or Quantity < 1 or Quantity > Nalpha:
+    if np.round(Quantity) != Quantity or Quantity < 0 or Quantity > Nalpha:
       raise Exception('UWerrTexp:IncorrectArgin \n illegal numeric value of Quantity')
     primary = 1 # logical variable
     primaryindex = Quantity
